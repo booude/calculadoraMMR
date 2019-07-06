@@ -2,7 +2,8 @@
 
 ## Uso
 
-    Calculadora simples para determinar, a partir de testes, o desempenho em uma Divisão Ranqueada de League of Legends.
+    Calculadora simples para determinar, a partir de testes,
+    o desempenho em uma Divisão Ranqueada de League of Legends.
     Indique seus dados, como média de PdL por Vitória/Derrota e PdL atual.
 
 ### Repl.run
